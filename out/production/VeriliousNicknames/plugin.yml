@@ -1,0 +1,10 @@
+name: VeriliousNickNames
+version: 1.1
+author: Johnathan Runyon
+main: com.runyontech.veriliousnicknames.VeriliousNicknames
+api-version: 1.13
+commands:
+  nick:
+    description: Allows the user to set a nickname
+    usage: /<command>
+    permission: verilious.nick

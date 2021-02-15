@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VeriliousNicknames:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="VeriliousNicknames.jar">
+      <element id="module-output" name="VeriliousNicknames" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.16.5-R0.1-20210213.231222-21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
